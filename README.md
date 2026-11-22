@@ -15,6 +15,10 @@ A personal portfolio website built with HTML and CSS. Designed to showcase perso
 
 2. Open `index.html` in your browser to view the website.
 
+## Motivation
+
+I built this project to practice frontend development and explore how HTML and CSS work together to create a personal portfolio website.
+
 ### Notes
 
 - `index.html` contains the website structure and content.
