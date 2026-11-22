@@ -85,3 +85,33 @@ ul li a:hover{
 .info a:hover{
     background: rgb(230, 104, 59);
 }
+
+.image{
+    width:30%;
+    height: 60%;
+    right: 100px;
+    bottom: 0;
+    position: absolute;
+}
+.image img{
+    position: absolute;
+    height: 140%;
+    left: 40%;
+    transform: translate(-55%);
+    bottom: 0;
+    transition: left 2s ease;
+}
+
+.image:hover .girl{
+    left: 55%;
+}
+.icons a{
+    text-decoration: none;
+    color: #000;
+}
+.icons ion-icon{
+    margin-left: 7%;
+    color: #000;
+    margin-right: -60px;
+    font-size: 40px;
+}
